@@ -1,0 +1,15 @@
+burrow-src
+.*.swp
+!config
+dist
+log
+.idea
+*.cov
+Burrow
+Burrow.exe
+Burrow.iml
+tmp
+vendor
+jars
+*.tar
+build-jar.sh
